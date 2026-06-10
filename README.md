@@ -18,7 +18,7 @@ A dark theme for Visual Studio Code.
 2. Type **Preferences: Color Theme** and select it
 3. Find and select **Nicolet FEAR** from the list
 
-###Alternative:
+Alternative(Easier):
 1. Press Ctrl-K-Ctrl-T and select **Nicolet FEAR** from the list
 
 ## Preview
