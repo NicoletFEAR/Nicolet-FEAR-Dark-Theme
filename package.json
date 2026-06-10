@@ -3,12 +3,13 @@
 "displayName": "NicoletFEAR",
 "description": "This is the dark theme for the FRC Team, 4786, Nicolet FEAR",
 "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Souklopath/nicolet-fear-dark"
-  },
+"publisher": "Souklopath",
+"repository": {
+  "type": "git",
+  "url": "https://github.com/Souklopath/nicolet-fear-dark"
+},
 "engines": {
-"vscode": "^1.120.0"
+"vscode": "^1.60.0"
 },
 "categories": [
 "Themes"
